@@ -1,0 +1,9 @@
+candidate_id,name,skills,experience_years,education,last_company
+1,Aryan Kumar,"Python, SQL, Data Analysis, Pandas, NumPy",2,B.E. CSE,ABC Analytics
+2,Neha Singh,"Java, Spring Boot, Microservices, REST API",3,B.Tech IT,InnovateSoft
+3,Rohan Verma,"Python, Machine Learning, Deep Learning, NLP",1,M.Tech AI,Student Intern
+4,Priya Nair,"HR Policies, Recruitment, Payroll, Employee Engagement",4,MBA HR,PeopleFirst
+5,Karthik Rao,"JavaScript, React, Node.js, HTML, CSS",2,B.E. ISE,WebWorks
+6,Swati Gupta,"Excel, Power BI, Data Visualization, SQL",3,B.Com,Insight Corp
+7,Aditya Joshi,"Python, Django, REST API, PostgreSQL",2,B.E. CSE,CloudBridge
+8,Meera Iyer,"Talent Acquisition, Campus Hiring, HRMS",5,MBA HR,TechHire

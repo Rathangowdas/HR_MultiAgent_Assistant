@@ -1,0 +1,11 @@
+department,day_offset,task_name,description
+HR,0,Welcome and Introduction,"Introduce the employee to the company, HR policies, and team members."
+HR,1,HRMS Account Setup,"Create employee profile in HRMS, payroll, and attendance systems."
+HR,3,Policy Training,"Explain leave, benefits, and code of conduct policies."
+Engineering,0,IT Setup,"Provide laptop, email account, and required software access."
+Engineering,1,Code Repository Access,"Grant access to Git repositories and project documentation."
+Engineering,2,Project Overview Meeting,"Introduce ongoing projects, architecture, and tech stack."
+Engineering,4,First Task Assignment,"Assign a simple starter task with mentor support."
+Data Analytics,0,Tool Access,"Provide access to SQL server, BI tools, and datasets."
+Data Analytics,1,Data Security Training,"Explain data privacy, access control, and compliance rules."
+Data Analytics,3,Shadowing Session,"Allow the new hire to shadow a senior analyst during a live project."

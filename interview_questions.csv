@@ -1,0 +1,9 @@
+role,difficulty,question,ideal_answer_keywords
+Python Developer,Easy,What are Python lists and tuples?,"mutable,immutable,ordered,sequence,data structure"
+Python Developer,Medium,Explain the concept of list comprehension in Python.,"concise,single line,for loop,filtering,iterable"
+Python Developer,Hard,How does Python's garbage collection work?,"reference counting,generational,garbage collector,memory management,cycle detection"
+Data Analyst,Easy,What is the difference between Excel and SQL?,"spreadsheet,database,large data,queries,tables"
+Data Analyst,Medium,Explain the concept of JOIN in SQL.,"inner join,left join,right join,combine tables,common key"
+HR Executive,Easy,What is the purpose of an HR policy?,"guidelines,behavior,process,consistency,compliance"
+HR Executive,Medium,How do you handle a conflict between two employees?,"listen,both sides,mediation,resolve,document"
+HR Executive,Hard,Explain the end-to-end recruitment process.,"requirements sourcing,screening,interview,offer,onboarding"
