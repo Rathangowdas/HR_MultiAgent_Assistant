@@ -1,2 +1,6 @@
 # HR_MultiAgent_Assistant
-HR_MultiAgent_Assistant is a smart HR automation app built with Python &amp; Streamlit. It supports resume ranking, ATS checking, interview analysis, onboarding planning, and HR policy answers using offline NLP with local data. It simplifies hiring, speeds decisions, and delivers a clean, interactive experience.
+Overview: Multi-agent HR automation system.
+Features: Resume ranking, ATS check, interview scoring, onboarding, role fit, HR queries.
+Tech: Python, Streamlit, Pandas, CSV, pdfplumber.
+Setup: Install requirements, run streamlit run app.py.
+Improvements: Add GPT, login, cloud DB.
